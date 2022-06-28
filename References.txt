@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/13682044/remove-unwanted-parts-from-strings-in-a-column?noredirect=1
+https://www.geeksforgeeks.org/python-regex-re-search-vs-re-findall/
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html
+https://pythonspot.com/matplotlib-pie-chart/
